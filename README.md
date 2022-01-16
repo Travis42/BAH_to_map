@@ -1,0 +1,3 @@
+# BAH to a map
+
+This is just a (sort of) quick experiment to get a relative feel for Cost of Living (COL) in the US using governemnt Basic Allowance for Housing (BAH) data.  I noticed that a lot of the COL information around the web is rich at the state level, but sparse at the city/region level.  But, the information exists partially in BAH, since the gov needs to calculate housing allowances for military personnel each year.  I figure that plotting this can round out the existing COL data out there, and maybe find some 'hidden gem' places to live.
